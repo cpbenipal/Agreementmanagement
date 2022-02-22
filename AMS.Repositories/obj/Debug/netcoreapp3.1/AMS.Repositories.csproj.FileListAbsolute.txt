@@ -1,0 +1,17 @@
+D:\Projects\Vladica\AMS\AMS.Repositories\bin\Debug\netcoreapp3.1\AMS.Repositories.deps.json
+D:\Projects\Vladica\AMS\AMS.Repositories\bin\Debug\netcoreapp3.1\AMS.Repositories.dll
+D:\Projects\Vladica\AMS\AMS.Repositories\bin\Debug\netcoreapp3.1\AMS.Repositories.pdb
+D:\Projects\Vladica\AMS\AMS.Repositories\bin\Debug\netcoreapp3.1\AMS.DbContext.dll
+D:\Projects\Vladica\AMS\AMS.Repositories\bin\Debug\netcoreapp3.1\AMS.Entities.dll
+D:\Projects\Vladica\AMS\AMS.Repositories\bin\Debug\netcoreapp3.1\AMS.Model.dll
+D:\Projects\Vladica\AMS\AMS.Repositories\bin\Debug\netcoreapp3.1\AMS.DbContext.pdb
+D:\Projects\Vladica\AMS\AMS.Repositories\bin\Debug\netcoreapp3.1\AMS.Model.pdb
+D:\Projects\Vladica\AMS\AMS.Repositories\bin\Debug\netcoreapp3.1\AMS.Entities.pdb
+D:\Projects\Vladica\AMS\AMS.Repositories\obj\Debug\netcoreapp3.1\AMS.Repositories.csproj.AssemblyReference.cache
+D:\Projects\Vladica\AMS\AMS.Repositories\obj\Debug\netcoreapp3.1\AMS.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Vladica\AMS\AMS.Repositories\obj\Debug\netcoreapp3.1\AMS.Repositories.AssemblyInfoInputs.cache
+D:\Projects\Vladica\AMS\AMS.Repositories\obj\Debug\netcoreapp3.1\AMS.Repositories.AssemblyInfo.cs
+D:\Projects\Vladica\AMS\AMS.Repositories\obj\Debug\netcoreapp3.1\AMS.Repositories.csproj.CoreCompileInputs.cache
+D:\Projects\Vladica\AMS\AMS.Repositories\obj\Debug\netcoreapp3.1\AMS.Repositories.csproj.CopyComplete
+D:\Projects\Vladica\AMS\AMS.Repositories\obj\Debug\netcoreapp3.1\AMS.Repositories.dll
+D:\Projects\Vladica\AMS\AMS.Repositories\obj\Debug\netcoreapp3.1\AMS.Repositories.pdb

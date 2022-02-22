@@ -1,0 +1,16 @@
+D:\Projects\Vladica\AMS\AMS.DbContext\bin\Debug\netcoreapp3.1\AMS.DbContext.deps.json
+D:\Projects\Vladica\AMS\AMS.DbContext\bin\Debug\netcoreapp3.1\AMS.DbContext.runtimeconfig.json
+D:\Projects\Vladica\AMS\AMS.DbContext\bin\Debug\netcoreapp3.1\AMS.DbContext.runtimeconfig.dev.json
+D:\Projects\Vladica\AMS\AMS.DbContext\bin\Debug\netcoreapp3.1\AMS.DbContext.dll
+D:\Projects\Vladica\AMS\AMS.DbContext\bin\Debug\netcoreapp3.1\AMS.DbContext.pdb
+D:\Projects\Vladica\AMS\AMS.DbContext\bin\Debug\netcoreapp3.1\AMS.Entities.dll
+D:\Projects\Vladica\AMS\AMS.DbContext\bin\Debug\netcoreapp3.1\AMS.Entities.pdb
+D:\Projects\Vladica\AMS\AMS.DbContext\obj\Debug\netcoreapp3.1\AMS.DbContext.csproj.AssemblyReference.cache
+D:\Projects\Vladica\AMS\AMS.DbContext\obj\Debug\netcoreapp3.1\AMS.DbContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Vladica\AMS\AMS.DbContext\obj\Debug\netcoreapp3.1\AMS.DbContext.AssemblyInfoInputs.cache
+D:\Projects\Vladica\AMS\AMS.DbContext\obj\Debug\netcoreapp3.1\AMS.DbContext.AssemblyInfo.cs
+D:\Projects\Vladica\AMS\AMS.DbContext\obj\Debug\netcoreapp3.1\AMS.DbContext.csproj.CoreCompileInputs.cache
+D:\Projects\Vladica\AMS\AMS.DbContext\obj\Debug\netcoreapp3.1\AMS.DbContext.csproj.CopyComplete
+D:\Projects\Vladica\AMS\AMS.DbContext\obj\Debug\netcoreapp3.1\AMS.DbContext.dll
+D:\Projects\Vladica\AMS\AMS.DbContext\obj\Debug\netcoreapp3.1\AMS.DbContext.pdb
+D:\Projects\Vladica\AMS\AMS.DbContext\obj\Debug\netcoreapp3.1\AMS.DbContext.genruntimeconfig.cache

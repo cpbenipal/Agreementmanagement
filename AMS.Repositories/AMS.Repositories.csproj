@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Generic\IInventoryRepository.cs" />
+    <Compile Remove="Generic\IUsersRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.22" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+    <PackageReference Include="NLog" Version="4.7.13" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AMS.DbContext\AMS.DbContext.csproj" />
+    <ProjectReference Include="..\AMS.Model\AMS.Model.csproj" />
+  </ItemGroup>
+
+</Project>

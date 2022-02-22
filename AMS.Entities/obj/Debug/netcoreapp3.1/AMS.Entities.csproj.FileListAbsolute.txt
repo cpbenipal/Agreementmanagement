@@ -1,0 +1,10 @@
+D:\Projects\Vladica\AMS\AMS.Entities\bin\Debug\netcoreapp3.1\AMS.Entities.deps.json
+D:\Projects\Vladica\AMS\AMS.Entities\bin\Debug\netcoreapp3.1\AMS.Entities.dll
+D:\Projects\Vladica\AMS\AMS.Entities\bin\Debug\netcoreapp3.1\AMS.Entities.pdb
+D:\Projects\Vladica\AMS\AMS.Entities\obj\Debug\netcoreapp3.1\AMS.Entities.csproj.AssemblyReference.cache
+D:\Projects\Vladica\AMS\AMS.Entities\obj\Debug\netcoreapp3.1\AMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Vladica\AMS\AMS.Entities\obj\Debug\netcoreapp3.1\AMS.Entities.AssemblyInfoInputs.cache
+D:\Projects\Vladica\AMS\AMS.Entities\obj\Debug\netcoreapp3.1\AMS.Entities.AssemblyInfo.cs
+D:\Projects\Vladica\AMS\AMS.Entities\obj\Debug\netcoreapp3.1\AMS.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\Vladica\AMS\AMS.Entities\obj\Debug\netcoreapp3.1\AMS.Entities.dll
+D:\Projects\Vladica\AMS\AMS.Entities\obj\Debug\netcoreapp3.1\AMS.Entities.pdb

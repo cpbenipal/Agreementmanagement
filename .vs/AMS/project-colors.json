@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "267f3c35-9cc9-4b65-81d3-dacc4ef2f866": {
+      "ProjectGuid": "267f3c35-9cc9-4b65-81d3-dacc4ef2f866",
+      "DisplayName": "AMS.Web",
+      "ColorIndex": 0
+    },
+    "fe733d2e-1623-4e5a-93b7-b3e4c6643165": {
+      "ProjectGuid": "fe733d2e-1623-4e5a-93b7-b3e4c6643165",
+      "DisplayName": "AMS.Entities",
+      "ColorIndex": 1
+    },
+    "dce6ccd7-4ea3-4b8d-84f8-7725d5a17506": {
+      "ProjectGuid": "dce6ccd7-4ea3-4b8d-84f8-7725d5a17506",
+      "DisplayName": "AMS.Model",
+      "ColorIndex": 2
+    },
+    "9495ef85-2dd0-44a4-9505-bb12f33388c8": {
+      "ProjectGuid": "9495ef85-2dd0-44a4-9505-bb12f33388c8",
+      "DisplayName": "AMS.DbContext",
+      "ColorIndex": 3
+    },
+    "2f58991b-a6f4-4267-a532-8e213af0adc8": {
+      "ProjectGuid": "2f58991b-a6f4-4267-a532-8e213af0adc8",
+      "DisplayName": "AMS.Repositories",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
